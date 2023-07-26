@@ -43,6 +43,6 @@ streamlit.text("The fruit load list contains:")
 streamlit.text(my_data_rows)
 
 streamlit.header("Fruityvice Fruit Advice!")
-fruit_choice = streamlit.text_input('What fruit would you like to add?)
+fruit_choice = streamlit.text_input('What fruit would you like to add?')
 
 
