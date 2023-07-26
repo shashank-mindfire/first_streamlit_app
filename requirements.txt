@@ -1,2 +1,3 @@
 #requirements.txt
-sonwflake-connector-python
+#sonwflake-connector-python
+python3 -m pip install --no-use-pep517 snowflake-connector-python
